@@ -8,6 +8,10 @@ This repository contains my submission for the Lloyds Banking Group Manchester P
 - Interactive dashboard built in **Power BI**
 - Agile-inspired documentation and modular code structure
 
+### Summary and Goals
+
+- To summarise this project, I will be taking a dataset, in parquet format
+
 ## Tech Stack
 
 - Python (Polars for its columnar and parallelised properties, PyArrow)
@@ -23,7 +27,7 @@ This repository contains my submission for the Lloyds Banking Group Manchester P
 
 ## Data Source
 
-Original data provided via [LBG Challenge Repository](link-to-original-repo)
+Original data provided via [LBG Challenge Repository](https://github.com/MaxwellB13/manchester_property_sales/tree/master)
 
 ## Author
 
