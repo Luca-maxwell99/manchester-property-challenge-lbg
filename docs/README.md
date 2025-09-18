@@ -36,7 +36,7 @@ The ultimate aim is to produce a well-structured, insightful analysis that could
 - `notebooks/`: Exploratory analysis and wrangling logic
 - `scripts/`: Modular Python functions for data processing
 - `docs/`: Agile artifacts (user stories, assumptions, changelog)
-  - [`wrangling_summary.md`](docs/wrangling_summary.md): Detailed breakdown of cleaning and enrichment steps
+  - [`wrangling_summary.md`](wrangling_summary.md): Detailed breakdown of cleaning and enrichment steps
 - `powerbi/`: Dashboard screenshots and PBIX file (if allowed)
 
 ## Data Source
