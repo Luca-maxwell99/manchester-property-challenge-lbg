@@ -18,7 +18,29 @@ To summarise this project, I will be working with a dataset in Parquet format to
 
 The ultimate aim is to produce a well-structured, insightful analysis that could inform stakeholders or serve as a foundation for further development, whether that’s a dashboard, report, or machine learning model.
 
-## Tech Stack
+## Challenge Scope
+
+This project addresses seven analytical questions provided in the Manchester Property Sales Challenge, covering residential and non-residential property trends, pricing, and geospatial patterns across Greater Manchester (1996–2024). Deliverables include:
+
+- Cleaned and documented data pipeline (Polars only)
+- Analytical responses to all challenge questions
+- Power BI dashboard visualising key insights
+- GitHub repository with reproducible code and markdown documentation
+
+## Project Management
+
+This project was managed using an Agile approach with a Kanban board in Jira. Tasks were organised into epics such as:
+
+- Project Preparation  
+- Documentation  
+- Visualisations  
+- Answering the Questions
+
+The board helped track progress across setup, wrangling, analysis, and presentation.
+
+![Kanban Board Screenshot](../static/kanban.png)
+
+### Tech Stack
 
 **Languages and Libraries**
 
@@ -42,6 +64,10 @@ The ultimate aim is to produce a well-structured, insightful analysis that could
 ## Data Source
 
 Original data provided via [LBG Challenge Repository](https://github.com/MaxwellB13/manchester_property_sales/tree/master)
+
+### Dashboard
+
+### Reflection
 
 ## Set Up
 
