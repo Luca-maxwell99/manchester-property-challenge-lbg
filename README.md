@@ -23,13 +23,13 @@ The ultimate aim is to produce a well-structured, insightful analysis that could
 **Languages and Libraries**
 
 - Python: Main language for processing and analysing data.
-  - Polars: Efficient columnar data manipulation
-  - PyArrow: Parquet file handling and interoperability
+  - Polars: Efficient columnar data manipulation.
+  - PyArrow: Parquet file handling and interoperability.
 
 **Tools**
 
-- Power BI for data visualisation
-- GitHub for version control and collaboration
+- Power BI for data visualisation.
+- GitHub for version control.
 
 ## Structure
 
@@ -53,7 +53,7 @@ To set up and run this project locally:
 
 ## Author
 
-Luca – Trainee Data Engineer at Digital Futures  
+Luca Maxwell – Trainee Data Engineer at Digital Futures  
 Focused on building robust, user-friendly data pipelines and dashboards that drive real-world impact.
 
 ## Contact
