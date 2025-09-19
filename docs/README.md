@@ -40,6 +40,8 @@ The board helped track progress across setup, wrangling, analysis, and presentat
 
 ![Kanban Board Screenshot](../static/kanban.png)
 
+[Link to my kanban](https://lucamaxwell.atlassian.net/jira/software/projects/KAN/boards/1)
+
 ### Tech Stack
 
 **Languages and Libraries**
@@ -58,7 +60,7 @@ The board helped track progress across setup, wrangling, analysis, and presentat
 - `scripts/`: Modular Python functions for data processing
 - `docs/`: Agile artifacts (user stories, assumptions, changelog)
   - [`wrangling_summary.md`](wrangling_summary.md): Detailed breakdown of cleaning and enrichment steps
-- `powerbi/`: Dashboard screenshots and PBIX file (if allowed)
+- `powerbi/`
 
 ## Data Source
 
@@ -66,10 +68,14 @@ Original data provided via [LBG Challenge Repository](https://github.com/Maxwell
 
 ### Dashboard
 
-- I created my dashboard using PowerBI
+- I created my dashboard using Power BI
 
 ![PowerBI Dashboard](../static/dashboard_preview.png)
+
 ### Reflection
+
+This dashboard project let me apply core data engineering skills—cleaning, enriching, and visualising property datasets, then surfacing postcode-level insights with dynamic filters. I emphasised clarity, reproducibility, and user experience, ensuring each page answered a specific question and every insight was transparent. The work also improved my Power BI skills, especially in designing accessible, stakeholder-focused visuals. I’m proud of how this dashboard balances technical accuracy with user relevance.
+If I had more time, I would have loved to explore the data further and answer Q7. Due to part time working commitments, I did my best to produce something I am proud of. 
 
 ## Set Up
 
