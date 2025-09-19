@@ -68,7 +68,7 @@ Original data provided via [LBG Challenge Repository](https://github.com/Maxwell
 
 - I created my dashboard using PowerBI
 
-![PowerBI Dashboard]("../static/dashboard_preview.png")
+![PowerBI Dashboard](../static/dashboard_preview.png)
 ### Reflection
 
 ## Set Up
