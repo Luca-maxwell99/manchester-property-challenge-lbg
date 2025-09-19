@@ -46,7 +46,6 @@ The board helped track progress across setup, wrangling, analysis, and presentat
 
 - Python: Main language for processing and analysing data.
   - Polars: Efficient columnar data manipulation.
-  - PyArrow: Parquet file handling and interoperability.
 
 **Tools**
 
@@ -67,6 +66,9 @@ Original data provided via [LBG Challenge Repository](https://github.com/Maxwell
 
 ### Dashboard
 
+- I created my dashboard using PowerBI
+
+![PowerBI Dashboard]("../static/dashboard_preview.png")
 ### Reflection
 
 ## Set Up
